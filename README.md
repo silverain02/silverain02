@@ -10,3 +10,5 @@
 <p align="center"> 📫 SNS 📫</p>
 <p align="center"><img href="https://velog.io/@ekdldkaa/posts"  src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/ekdldkaa@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></p>
 <br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverain02)](https://github.com/silverain02/github-readme-stats)
